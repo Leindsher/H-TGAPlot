@@ -179,6 +179,7 @@ H-TGAPlot_v2_95.py
 **Carlos Henrique Amaro da Silva**
 
 M.Sc. in Materials Technology and Industrial Processes — Universidade Feevale (2025)
+
 B.Sc. in Chemical Engineering (2023)
 
 Research focus: surface treatments, anodization, and electrodeposition with biomedical applications.
