@@ -177,6 +177,7 @@ H-TGAPlot_v2_95.py
 ## Author
 
 **Carlos Henrique Amaro da Silva**
+
 M.Sc. in Materials Technology and Industrial Processes — Universidade Feevale (2025)
 B.Sc. in Chemical Engineering (2023)
 
