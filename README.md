@@ -51,20 +51,20 @@ H-TGAPlot is a Python desktop application for visualizing and quantitatively ana
 The layout is split into a scrollable control panel (left) and the plot area (right):
 
 ```
-┌────────────────────┬──────────────────────────────────────────┐
+┌─────────────────────┬──────────────────────────────────────────┐
 │  H-TGAPlot          │                                          │
 │  ─────────────      │                                          │
-│  Files               │           Plot area                      │
-│  Plot TGA/DrTGA      │       (interactive matplotlib)           │
-│  Smoothing           │                                          │
-│  Manual interval     │                                          │
-│  Onset/Endset auto   │                                          │
+│  Files              │           Plot area                      │
+│  Plot TGA/DrTGA     │       (interactive matplotlib)           │
+│  Smoothing          │                                          │
+│  Manual interval    │                                          │
+│  Onset/Endset auto  │                                          │
 │  ─────────────      │                                          │
-│  Axes / Grid          │                                          │
-│  Fonts / Legend       │                                          │
-│  Style controls      │                                          │
-│  Export              │                                          │
-└────────────────────┴──────────────────────────────────────────┘
+│  Axes / Grid        │                                          │
+│  Fonts / Legend     │                                          │
+│  Style controls     │                                          │
+│  Export             │                                          │
+└─────────────────────┴──────────────────────────────────────────┘
 ```
 
 ---
